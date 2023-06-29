@@ -20,7 +20,9 @@ nav a {
     color: cyan;
 }
 </style>
+<?php
 
+?>
 <body class="bg">
 	<nav>
 		<a>Who?</a>
